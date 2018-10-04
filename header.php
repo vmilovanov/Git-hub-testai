@@ -1,1 +1,4 @@
-<?echo "Mano batai buvo duu";?>
+<?
+echo "Mano batai buvo du";
+echo "Vienas dingo nerandu";
+?>
